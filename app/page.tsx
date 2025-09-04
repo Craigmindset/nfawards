@@ -204,7 +204,7 @@ export default function Home() {
                     href="#nominate"
                     className="bg-transparent border border-white text-white px-5 sm:px-6 py-2 sm:py-3 rounded-sm hover:bg-white/10 transition text-sm sm:text-base"
                   >
-                    Nominate now
+                    Nominate 
                   </Link>
                 </div>
 
