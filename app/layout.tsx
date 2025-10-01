@@ -31,7 +31,7 @@ const bebasNeue = Bebas_Neue({
 export const metadata: Metadata = {
   title: "Nigeria Fitness Awards | NFAWARD",
   description: "The premier celebration of fitness excellence in Nigeria",
-    generator: 'v0.app'
+   
 }
 
 export default function RootLayout({
